@@ -27,4 +27,4 @@
 ### Connect with me:
 
 <a target="_blank" href="https://www.linkedin.com/in/mavibarissalli/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@mavi.baris96"><img src="https://user-images.githubusercontent.com/72470885/134591254-41326f99-10c9-4d90-90a3-241072af4e8d.png"></img></a>
+
