@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Mavi Barış Şallı
 
-##  I'm a Backend Web Developer
+##  I'm a Software Developer
 
 ### Technologies and Tools I use:
 
