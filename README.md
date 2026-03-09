@@ -5,6 +5,8 @@
 
 ##  I'm a Javascript Developer
 
+#### Most of my work is in private repositories at Retter — 4+ years of production commits on A101 and Starbucks TR projects
+
 ### Technologies and Tools I use:
 
 
